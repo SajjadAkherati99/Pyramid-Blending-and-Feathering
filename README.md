@@ -9,7 +9,7 @@ Compositing is the process of copying or inserting a part of one image into anot
 
 # Results, group 1
 <p align="center">
-  <img width="500" height="462" src="./outputs/1/res1.jpg">
+  <img width="500" height="462" src="./outputs/1/res2.jpg">
 </p>
 
 # Images, group 2
@@ -20,7 +20,7 @@ Compositing is the process of copying or inserting a part of one image into anot
 
 # Results, group 2
 <p align="center">
-  <img width="500" height="462" src="./outputs/2/res1.jpg">
+  <img width="500" height="462" src="./outputs/2/res2.jpg">
 </p>
 
 # Images, group 3
@@ -31,7 +31,7 @@ Compositing is the process of copying or inserting a part of one image into anot
 
 # Results, group 3
 <p align="center">
-  <img width="500" height="462" src="./outputs/3/res1.jpg">
+  <img width="500" height="462" src="./outputs/3/res2.jpg">
 </p>
 
 # Images, group 4
@@ -42,5 +42,5 @@ Compositing is the process of copying or inserting a part of one image into anot
 
 # Results, group 4
 <p align="center">
-  <img width="500" height="462" src="./outputs/4/res1.jpg">
+  <img width="500" height="462" src="./outputs/4/res2.jpg">
 </p>
